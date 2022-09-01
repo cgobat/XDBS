@@ -9,6 +9,8 @@
 
 ---
 
+[![doi:10.3847/2515-5172/ac8937](https://img.shields.io/badge/doi-10.3847%2F2515--5172%2Fac8937-informational)](https://doi.org/10.3847/2515-5172/ac8937)
+
 This GitHub repository contains a catalog of the multi-wavelength properties of 161 Be stars from the Be Star Spectra database that have been detected in X-rays and are present in either the [*Chandra* Source Catalog Release 2.0](https://cxc.cfa.harvard.edu/csc2/), [*XMM-Newton* 4XMM Catalog](http://xmm-catalog.irap.omp.eu/), or [*Swift* 2SXPS Catalog](https://www.swift.ac.uk/2SXPS/). The catalog and methodology are described in [Gobat, *et al.* (2022)](https://doi.org/10.3847/2515-5172/ac8937).
 
 ---
